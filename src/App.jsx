@@ -177,7 +177,11 @@ export default function App() {
               I’m building this portfolio to show companies what I can do. If you’re interested in working together, have feedback, or just want to chat about projects and ideas, feel free to reach out!
             </p>
             <div className="hero-buttons">
-              <a href="mailto:seakinsconnor@gmail.com" className="button button-primary">
+              <a 
+                href="https://mail.google.com/mail/?view=cm&to=seakinsconnor@gmail.com&su=Portfolio%20Contact&body=Hi%20Connor,"
+                target="_blank" 
+                rel="noopener noreferrer" 
+                className="button button-primary">
                 Email Me
               </a>
               <a 
